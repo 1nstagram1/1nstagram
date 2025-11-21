@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 GitHub Stats (Neon Glow)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=1nstagram1&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide_title=false&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=0d0d0d" />
