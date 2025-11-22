@@ -116,7 +116,7 @@ public class Developer {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Phone" width="35" height="35" /> Connect With Me
+## <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Objects/Telephone.webp" alt="Phone" width="35" height="35" /> Connect With Me
 
 <p align="center">
   <a href="https://discord.com/users/1158438217318670437">
